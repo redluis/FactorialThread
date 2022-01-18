@@ -1,2 +1,2 @@
 # FactorialThread
-Comparsion of factorial in cycle and recursive (+ multhithreading)
+Comparsion of factorial in cycle and recursive (+ multhithreading). Very interesting results
